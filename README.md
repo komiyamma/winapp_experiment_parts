@@ -1,1 +1,1 @@
-# winapp_experiment_parts
+# 何かを制作する途中で実験的に作った部品、殴り書き
